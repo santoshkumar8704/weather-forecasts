@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/santoshkumar8704/weather-forecasts/static/css/main.9b36299b.css",
+    "main.js": "/santoshkumar8704/weather-forecasts/static/js/main.192d6640.js",
+    "index.html": "/santoshkumar8704/weather-forecasts/index.html",
+    "main.9b36299b.css.map": "/santoshkumar8704/weather-forecasts/static/css/main.9b36299b.css.map",
+    "main.192d6640.js.map": "/santoshkumar8704/weather-forecasts/static/js/main.192d6640.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b36299b.css",
+    "static/js/main.192d6640.js"
+  ]
+}
